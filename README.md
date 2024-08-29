@@ -44,15 +44,14 @@
 <div>
   <h2 align="left">about me</h2>
   <br>
-  <a>Habilidades Técnicas:
-•	Lenguajes de Programación: JavaScript, Python.
-•	Frameworks y Tecnologías: Spring Boot, React, Node.js, Medusa.js, next.js.
-•	Desarrollo Web: HTML, CSS, JavaScript.
-•	Bases de Datos: MySQL, MongoDB.
-•	Metodologías de Desarrollo: Arquitectura Hexagonal, Scrum.
-•	Herramientas de Control de Versiones: Git.
-•	Gestión de Proyectos: Uso de Gradle para la construcción de proyectos.
-</a>
+  <a>⦿	Programming Languages: JavaScript, Python.</a>
+  <a>⦿	Frameworks and Technologies: Spring Boot, React, Node.js, Medusa.js, Next.js.</a>
+  <a>⦿	Web Development: HTML, CSS, JavaScript.</a>
+  <a>⦿	Databases: MySQL, MongoDB.</a>
+  <a>⦿	Development Methodologies: Hexagonal Architecture, Scrum.</a>
+  <a>⦿ Version Control Tools: Git.</a>
+  <a>⦿	Project Management: Using Gradle for project builds.</a>
+  
 </div>
 
 ###
