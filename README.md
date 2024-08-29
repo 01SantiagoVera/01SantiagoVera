@@ -76,13 +76,4 @@
 
 ###
 
-### Spotify Playing 🎧 
-
-[![Spotify](https://novatorem-l5in-aosp4lr14-santiagos-projects-34fb98cb.vercel.app/api/spotify)](https://open.spotify.com/user/31uyup6u6bt5svhxzhv7vsslxpqa)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
 
