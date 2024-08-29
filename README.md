@@ -1,6 +1,5 @@
 <h2 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia Flag" style="width: 30px; vertical-align: middle; margin-right: 8px;">
-  Hi 👋! My name is Santiago, and I'm a student of Software Engineering
+  Hi 👋! My name is Santiago, and I'm a student of Software Engineering<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia Flag" style="width: 30px; vertical-align: middle; margin-right: 8px;">
 </h2>
 
 
