@@ -78,7 +78,7 @@
 
 ### Spotify Playing 🎧 
 
-[![Spotify](novatorem2423-lep37l0s8-santiagos-projects-34fb98cb.vercel.app)](https://open.spotify.com/user/31uyup6u6bt5svhxzhv7vsslxpqa)
+[![Spotify](https://novatorem2423-lep37l0s8-santiagos-projects-34fb98cb.vercel.app/api/spotify)](https://open.spotify.com/user/31uyup6u6bt5svhxzhv7vsslxpqa)
 
 ---
 
