@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
+
+
 ###
 
 <div align="left">
@@ -50,5 +52,14 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/01SantiagoVera /01SantiagoVera /output/snake.svg" alt="Snake animation" />
 
 ###
