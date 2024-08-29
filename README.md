@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-###
+
 <br><br>
 <div>
   <h2 align="left">about me</h2><br>
