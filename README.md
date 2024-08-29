@@ -42,15 +42,14 @@
 
 ###
 <div>
-  <h2 align="left">about me</h2>
-  <br>
-  <a>⦿	Programming Languages: JavaScript, Python.</a>
-  <a>⦿	Frameworks and Technologies: Spring Boot, React, Node.js, Medusa.js, Next.js.</a>
-  <a>⦿	Web Development: HTML, CSS, JavaScript.</a>
-  <a>⦿	Databases: MySQL, MongoDB.</a>
-  <a>⦿	Development Methodologies: Hexagonal Architecture, Scrum.</a>
-  <a>⦿ Version Control Tools: Git.</a>
-  <a>⦿	Project Management: Using Gradle for project builds.</a>
+  <h2 align="left">about me</h2><br>
+  <a>⦿	Programming Languages: JavaScript, Python.</a><br>
+  <a>⦿	Frameworks and Technologies: Spring Boot, React, Node.js, Medusa.js, Next.js.</a><br>
+  <a>⦿	Web Development: HTML, CSS, JavaScript.</a><br>
+  <a>⦿	Databases: MySQL, MongoDB.</a><br>
+  <a>⦿	Development Methodologies: Hexagonal Architecture, Scrum.</a><br>
+  <a>⦿ Version Control Tools: Git.</a><br>
+  <a>⦿	Project Management: Using Gradle for project builds.</a><br>
   
 </div>
 
