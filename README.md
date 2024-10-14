@@ -103,4 +103,10 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/01SantiagoVera /01SantiagoVera /output/snake.svg" alt="Snake animation" />
+
+###
+
 
